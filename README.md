@@ -85,7 +85,7 @@ public class Person {
   public PersonBuilder newChildBuilder() { /*...*/ }
 }
 ```
-6. Добавьте класс `Main` для демонстрации
+5. Добавьте класс `Main` для демонстрации
 ```java
 public class Main {
   public static void main(String[] args) {
